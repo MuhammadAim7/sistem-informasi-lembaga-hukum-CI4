@@ -1,0 +1,48 @@
+
+## 📦 Sistem Informasi Bantuan Hukum
+
+Proyek ini merupakan sistem informasi berbasis web yang dibangun menggunakan **CodeIgniter 4** untuk mendukung manajemen layanan bantuan hukum, termasuk pengelolaan advokat, klien, jadwal, dan agenda.
+
+---
+
+## 🔧 Cara Instalasi
+
+1. **Clone repositori ini:**
+
+   ```bash
+   git clone https://github.com/usernameAnda/sistem-informasi-lembaga-hukum-CI4.git
+   ```
+
+2. **Pindahkan folder ke direktori server lokal Anda** (contoh: `htdocs` atau `www` pada XAMPP/Laragon).
+
+3. **Konfigurasi database:**
+
+   * Buat database baru di phpMyAdmin (contoh nama: `bantuan_hukum`).
+   * Impor file SQL (lihat bagian "Mendapatkan database").
+
+4. **Atur koneksi database:**
+
+   * Buka file: `application/config/database.php`
+   * Sesuaikan parameter berikut:
+
+     ```php
+     'hostname' => 'localhost',
+     'username' => 'root',
+     'password' => '',
+     'database' => 'bantuan_hukum',
+     ```
+
+5. **Akses melalui browser:**
+
+   ```
+   http://localhost/nama-folder-anda/
+   ```
+
+---
+
+## 📁 Mendapatkan File Database
+
+Untuk mendapatkan file database (SQL) yang diperlukan, silakan hubungi kami melalui WhatsApp:
+
+👉 [Klik di sini untuk menghubungi via WhatsApp](https://wa.me/6281393768674)
+
